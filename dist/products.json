@@ -1,0 +1,352 @@
+[
+  {
+    "name": "Spot TEE 5",
+    "image": "images/26577402.jpg",
+    "url": "https://blacklabspotsshop.me/product/26577402",
+    "price": "$24.82",
+    "id": "26577402",
+    "category": "wear",
+    "code": "TS-05",
+    "originalImage": "https://images-api.printify.com/mockup/697f4353ae2210d5a70740ed/73207/98445/spot-tee-5.jpg?camera_label=front&revision=1769948229352"
+  },
+  {
+    "image": "images/25392440.jpg",
+    "name": "Minimal Black Labrador Embroidered Hoodie",
+    "price": "$40.60",
+    "url": "https://blacklabspotsshop.me/product/25392440",
+    "id": "25392440",
+    "category": "wear",
+    "code": "HD-22",
+    "originalImage": "https://images-api.printify.com/mockup/6931d763af55177fda0d5f67/68053/99231/minimal-black-labrador-embroidered-hoodie.jpg?camera_label=front&revision=1764882839842"
+  },
+  {
+    "name": "Baby Spot Dad Cap",
+    "image": "images/29988688.jpg",
+    "url": "https://blacklabspotsshop.me/product/29988688",
+    "price": "$21.00",
+    "id": "29988688",
+    "category": "accessories",
+    "code": "CP-01",
+    "originalImage": "https://images-api.printify.com/mockup/6a5477fc06d5c9597b02b7ff/103870/100991/baby-spot-dad-cap.jpg?camera_label=front&revision=1783920691295"
+  },
+  {
+    "name": "Spot TEE 2E",
+    "image": "images/26557057.jpg",
+    "url": "https://blacklabspotsshop.me/product/26557057",
+    "price": "$32.00",
+    "id": "26557057",
+    "category": "wear",
+    "code": "TS-06",
+    "originalImage": "https://images-api.printify.com/mockup/697e0aeb4ddf475cb701d907/12022/102005/spot-tee-2e.jpg?camera_label=front-2&revision=1769944093404"
+  },
+  {
+    "image": "images/25392276.jpg",
+    "name": "Spot hoodie 3 designs",
+    "price": "$49.56",
+    "url": "https://blacklabspotsshop.me/product/25392276",
+    "id": "25392276",
+    "category": "wear",
+    "code": "HD-33",
+    "originalImage": "https://images-api.printify.com/mockup/6931c37916cb0b44c9092ae8/32880/98424/spot-hoodie-3-designs.jpg?camera_label=front&revision=1764873757109"
+  },
+  {
+    "name": "Spot Dad Cap",
+    "image": "images/29988529.jpg",
+    "url": "https://blacklabspotsshop.me/product/29988529",
+    "price": "$19.99",
+    "id": "29988529",
+    "category": "accessories",
+    "code": "CP-03",
+    "originalImage": "https://pfy-prod-products-mockup-media.s3.us-east-2.amazonaws.com/files/2026/07/20260713052301-1f17e7ae-a923-6174-8073-3a601ded658a.png?revision=1783920268130"
+  },
+  {
+    "name": "Spot TEE 3",
+    "image": "images/26557239.jpg",
+    "url": "https://blacklabspotsshop.me/product/26557239",
+    "price": "$22.64",
+    "id": "26557239",
+    "category": "wear",
+    "code": "TS-09",
+    "originalImage": "https://images-api.printify.com/mockup/697e0f6d0de1e072580e8a2a/12100/92570/spot-tee-3.jpg?camera_label=front&revision=1769869316473"
+  },
+  {
+    "image": "images/25456666.jpg",
+    "name": "warm spot  :)",
+    "price": "$29.24",
+    "url": "https://blacklabspotsshop.me/product/25456666",
+    "id": "25456666",
+    "category": "wear",
+    "code": "HD-23",
+    "originalImage": "https://images-api.printify.com/mockup/69352a18282b17ae9609258e/94945/101396/warm-spot.jpg?camera_label=front&revision=1765111794521"
+  },
+  {
+    "name": "Spot Polo",
+    "image": "images/26576768.jpg",
+    "url": "https://blacklabspotsshop.me/product/26576768",
+    "price": "$37.90",
+    "id": "26576768",
+    "category": "wear",
+    "code": "PL-08",
+    "originalImage": "https://images-api.printify.com/mockup/697f2f66bb695bec2a04e52c/118322/109526/spot-polo.jpg?camera_label=front&revision=1769943300786"
+  },
+  {
+    "name": "Engraved Whiskey Glass 10.5oz \u2014 Minimal Dots Pattern, Personalized Bar Gift",
+    "image": "images/29988537.jpg",
+    "url": "https://blacklabspotsshop.me/product/29988537",
+    "price": "$20.13",
+    "id": "29988537",
+    "category": "objects",
+    "code": "OB-02",
+    "originalImage": "https://images-api.printify.com/mockup/697f526d982eb8394602a954/122883/111897/engraved-whiskey-glass-105oz-minimal-dots-pattern-personalized-bar-gift.jpg?camera_label=front&revision=1783920299650"
+  },
+  {
+    "name": "Spot can cooler",
+    "image": "images/26578048.jpg",
+    "url": "https://blacklabspotsshop.me/product/26578048",
+    "price": "$9.04",
+    "id": "26578048",
+    "category": "accessories",
+    "code": "AC-04",
+    "originalImage": "https://images-api.printify.com/mockup/697f50eaab8db521c50be59e/78460/39614/spot-can-cooler.jpg?camera_label=context-3&revision=1769951556540"
+  },
+  {
+    "name": "Spot Photo",
+    "image": "images/26577022.jpg",
+    "url": "https://blacklabspotsshop.me/product/26577022",
+    "price": "$36.39",
+    "id": "26577022",
+    "category": "objects",
+    "code": "OB-07",
+    "originalImage": "https://images-api.printify.com/mockup/697f37e78d0d702822097a0a/88280/103214/spot-photo.jpg?camera_label=front&revision=1769945473680"
+  },
+  {
+    "name": "Spot Magnet",
+    "image": "images/26564367.jpg",
+    "url": "https://blacklabspotsshop.me/product/26564367",
+    "price": "$8.05",
+    "id": "26564367",
+    "category": "accessories",
+    "code": "AC-10",
+    "originalImage": "https://images-api.printify.com/mockup/697e6bc00de1e072580e9a70/76774/23245/spot-magnet.jpg?camera_label=front&revision=1769892877357"
+  },
+  {
+    "name": "Red Spot Bandana",
+    "image": "images/26576827.jpg",
+    "url": "https://blacklabspotsshop.me/product/26576827",
+    "price": "$23.58",
+    "id": "26576827",
+    "category": "accessories",
+    "code": "AC-11",
+    "originalImage": "https://images-api.printify.com/mockup/697f32efe134b021330189c0/70843/11837/red-spot-bandana.jpg?camera_label=front&revision=1769943907297"
+  },
+  {
+    "name": "Spot Desk Mat",
+    "image": "images/26576916.jpg",
+    "url": "https://blacklabspotsshop.me/product/26576916",
+    "price": "$31.43",
+    "id": "26576916",
+    "category": "objects",
+    "code": "OB-12",
+    "originalImage": "https://images-api.printify.com/mockup/697f3673bb695bec2a04e68a/81075/100926/spot-desk-mat.jpg?camera_label=front&revision=1769944834313"
+  },
+  {
+    "name": "Spot Blanket",
+    "image": "images/26577084.jpg",
+    "url": "https://blacklabspotsshop.me/product/26577084",
+    "price": "$48.03",
+    "id": "26577084",
+    "category": "objects",
+    "code": "OB-13",
+    "originalImage": "https://images-api.printify.com/mockup/697f3b01739f5eb60f063857/41656/439/spot-blanket.jpg?camera_label=front&revision=1769945913373"
+  },
+  {
+    "name": "Spot Sticker",
+    "image": "images/26556635.jpg",
+    "url": "https://blacklabspotsshop.me/product/26556635",
+    "price": "$2.49",
+    "id": "26556635",
+    "category": "accessories",
+    "code": "AC-14",
+    "originalImage": "https://images-api.printify.com/mockup/697e01872c42958ba40ae707/45747/16654/spot-sticker.jpg?camera_label=front&revision=1769865727808"
+  },
+  {
+    "name": "Spot Apple Watch Strap",
+    "image": "images/26576691.jpg",
+    "url": "https://blacklabspotsshop.me/product/26576691",
+    "price": "$31.06",
+    "id": "26576691",
+    "category": "accessories",
+    "code": "AC-15",
+    "originalImage": "https://images-api.printify.com/mockup/697f2cc2ec3d7534d2040c9d/62061/3010/spot-apple-watch-strap.jpg?camera_label=front&revision=1769942307734"
+  },
+  {
+    "name": "Spot Pillow",
+    "image": "images/26577129.jpg",
+    "url": "https://blacklabspotsshop.me/product/26577129",
+    "price": "$16.10",
+    "id": "26577129",
+    "category": "objects",
+    "code": "OB-16",
+    "originalImage": "https://images-api.printify.com/mockup/697f3cbabb695bec2a04e7a2/104323/101194/spot-pillow.jpg?camera_label=front&revision=1769946477041"
+  },
+  {
+    "image": "images/26564136.jpg",
+    "name": "spot glass",
+    "price": "$19.43",
+    "url": "https://blacklabspotsshop.me/product/26564136",
+    "id": "26564136",
+    "category": "objects",
+    "code": "OB-17",
+    "originalImage": "https://images-api.printify.com/mockup/697e6751e7f51bec6e03fe4e/115635/108603/spot-glass.jpg?camera_label=left&revision=1769891835908"
+  },
+  {
+    "image": "images/25391915.jpg",
+    "name": "Personalised Spot Necklace",
+    "price": "$28.37",
+    "url": "https://blacklabspotsshop.me/product/25391915",
+    "id": "25391915",
+    "category": "accessories",
+    "code": "AC-18",
+    "originalImage": "https://images-api.printify.com/mockup/6931d16d2abb939a920d6ef1/147718/111754/personalised-spot-necklace.jpg?camera_label=front&revision=1765092991375"
+  },
+  {
+    "image": "images/26577151.jpg",
+    "name": "Wooden Spot",
+    "price": "$34.75",
+    "url": "https://blacklabspotsshop.me/product/26577151",
+    "id": "26577151",
+    "category": "objects",
+    "code": "OB-19",
+    "originalImage": "https://images-api.printify.com/mockup/697f3e2e739f5eb60f0638cc/112515/107973/wooden-spot.jpg?camera_label=front&revision=1769947058094"
+  },
+  {
+    "image": "images/25392718.jpg",
+    "name": "Dad Hat Embroidered Black Lab Dog Portrait",
+    "price": "$36.43",
+    "url": "https://blacklabspotsshop.me/product/25392718",
+    "id": "25392718",
+    "category": "accessories",
+    "code": "CP-20",
+    "originalImage": "https://images-api.printify.com/mockup/6931da472abb939a920d71ef/118240/109493/dad-hat-embroidered-black-lab-dog-portrait.jpg?camera_label=front&revision=1764874903251"
+  },
+  {
+    "image": "images/25456436.jpg",
+    "name": "Spot TEE",
+    "price": "$41.47",
+    "url": "https://blacklabspotsshop.me/product/25456436",
+    "id": "25456436",
+    "category": "wear",
+    "code": "TS-21",
+    "originalImage": "https://images-api.printify.com/mockup/69352550a5ea87e0730ef6e1/73207/98445/spot-tee.jpg?camera_label=front&revision=1765091259729"
+  },
+  {
+    "image": "images/25461328.jpg",
+    "name": "Spot\u2019s mousepad",
+    "price": "$25.47",
+    "url": "https://blacklabspotsshop.me/product/25461328",
+    "id": "25461328",
+    "category": "objects",
+    "code": "OB-24",
+    "originalImage": "https://images-api.printify.com/mockup/69358c3c0e69666d02046287/62329/3393/spots-mousepad.jpg?camera_label=front&revision=1765117124151"
+  },
+  {
+    "image": "images/25695694.jpg",
+    "name": "Wrapping Paper \u2013 Minimal Black & White Penguin Pattern Gift Wrap",
+    "price": "$13.68",
+    "url": "https://blacklabspotsshop.me/product/25695694",
+    "id": "25695694",
+    "category": "objects",
+    "code": "OB-25",
+    "originalImage": "https://images-api.printify.com/mockup/694254ff892a23a4d60b98e5/102987/99950/wrapping-paper-minimal-black-white-penguin-pattern-gift-wrap.jpg?camera_label=front&revision=1765955260506"
+  },
+  {
+    "image": "images/25651720.jpg",
+    "name": "Engraved Bamboo Pizza Peel with Dog Silhouette Pattern \u2014 Personalized Serving & Cutting Board",
+    "price": "$34.55",
+    "url": "https://blacklabspotsshop.me/product/25651720",
+    "id": "25651720",
+    "category": "objects",
+    "code": "OB-26",
+    "originalImage": "https://images-api.printify.com/mockup/693fdb0f3090b45f1a09da4a/122988/111979/engraved-bamboo-pizza-peel-with-dog-silhouette-pattern-personalized-serving-cutting-board.jpg?camera_label=front&revision=1765792675194"
+  },
+  {
+    "image": "images/25461256.jpg",
+    "name": "Labrador Dog Sticker Sheet Bundle \u2014 5 Cute Colorful Lab Decals",
+    "price": "$40.25",
+    "url": "https://blacklabspotsshop.me/product/25461256",
+    "id": "25461256",
+    "category": "accessories",
+    "code": "AC-27",
+    "originalImage": "https://images-api.printify.com/mockup/693589be36a98271a205aa06/76907/25108/labrador-dog-sticker-sheet-bundle-5-cute-colorful-lab-decals.jpg?camera_label=front&revision=1765116559180"
+  },
+  {
+    "image": "images/25396695.jpg",
+    "name": "Phone Case \u2014 Patterned Angry spot Tough Magnetic Case",
+    "price": "$29.52",
+    "url": "https://blacklabspotsshop.me/product/25396695",
+    "id": "25396695",
+    "category": "accessories",
+    "code": "AC-28",
+    "originalImage": "https://images-api.printify.com/mockup/6931cd501b4914a54c078ffe/109328/107253/phone-case-patterned-angry-spot-tough-magnetic-case.jpg?camera_label=front&revision=1764882788601"
+  },
+  {
+    "image": "images/25409207.jpg",
+    "name": "Black Lab Photo Ceramic Mug \u2014 Cute Labrador Tongue-Out Coffee Cup (11oz & 15oz)",
+    "price": "$8.22",
+    "url": "https://blacklabspotsshop.me/product/25409207",
+    "id": "25409207",
+    "category": "objects",
+    "code": "OB-29",
+    "originalImage": "https://images-api.printify.com/mockup/69327c418238115b130e9f65/65216/6310/black-lab-photo-ceramic-mug-cute-labrador-tongue-out-coffee-cup-11oz-15oz.jpg?camera_label=front&revision=1764916358558"
+  },
+  {
+    "image": "images/25391433.jpg",
+    "name": "Personalized Pet Jewelry Spot Doggie",
+    "price": "$27.55",
+    "url": "https://blacklabspotsshop.me/product/25391433",
+    "id": "25391433",
+    "category": "accessories",
+    "code": "AC-30",
+    "originalImage": "https://images-api.printify.com/mockup/6931cecc4ec120e79a061fa9/147710/111778/personalized-pet-jewelry-spot-doggie.jpg?camera_label=front&revision=1764871962601"
+  },
+  {
+    "image": "images/25460993.jpg",
+    "name": "Black Labrador Tongue-Out Temporary Tattoo \u2014 Cute Dog Sticker Tattoo for Pet Lovers",
+    "price": "$7.90",
+    "url": "https://blacklabspotsshop.me/product/25460993",
+    "id": "25460993",
+    "category": "accessories",
+    "code": "AC-31",
+    "originalImage": "https://images-api.printify.com/mockup/693587efa5ea87e0730f120d/125278/111990/black-labrador-tongue-out-temporary-tattoo-cute-dog-sticker-tattoo-for-pet-lovers.jpg?camera_label=front&revision=1765115932906"
+  },
+  {
+    "image": "images/25392168.jpg",
+    "name": "Spot Funny Kids T-Shirt",
+    "price": "$14.98",
+    "url": "https://blacklabspotsshop.me/product/25392168",
+    "id": "25392168",
+    "category": "wear",
+    "code": "TS-32",
+    "originalImage": "https://images-api.printify.com/mockup/6931d4448238115b130e6a7a/42727/105377/spot-funny-kids-t-shirt.jpg?camera_label=front&revision=1765091511573"
+  },
+  {
+    "image": "images/25396664.jpg",
+    "name": "Embroidered Penguin Hoodie \u2013 Pigment-Dyed Cozy Pullover",
+    "price": "$85.20",
+    "url": "https://blacklabspotsshop.me/product/25396664",
+    "id": "25396664",
+    "category": "wear",
+    "code": "HD-34",
+    "originalImage": "https://images-api.printify.com/mockup/6931c77916cb0b44c9092bf8/119277/110586/embroidered-penguin-hoodie-pigment-dyed-cozy-pullover.jpg?camera_label=front&revision=1764882690725"
+  },
+  {
+    "image": "images/25456281.jpg",
+    "name": "Personalized Photo Jewelry Travel Case \u2013 Compact Pink Organizer for Earrings, Rings & Necklaces",
+    "price": "$19.99",
+    "url": "https://blacklabspotsshop.me/product/25456281",
+    "id": "25456281",
+    "category": "accessories",
+    "code": "AC-35",
+    "originalImage": "https://images-api.printify.com/mockup/6935203e475cca4ab2049881/122940/110818/personalized-photo-jewelry-travel-case-compact-pink-organizer-for-earrings-rings-necklaces.jpg?camera_label=on-person-1&revision=1765091384986"
+  }
+]
