@@ -2,6 +2,10 @@
 
 A separate, buildless storefront inspired by Yeezy’s minimal product grid. Includes all 35 products observed on blacklabspotsshop.me on 22 October 2026.
 
+<!-- live-links -->
+**Live:** [gitguy268.github.io/blacklab-store-yeezy](https://gitguy268.github.io/blacklab-store-yeezy/) · [blacklab-store-yeezy.vercel.app](https://blacklab-store-yeezy.vercel.app)
+<!-- /live-links -->
+
 <!-- run-steps:start -->
 ## Run it locally, step by step
 
