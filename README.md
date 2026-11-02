@@ -2,6 +2,25 @@
 
 A separate, buildless storefront inspired by Yeezy’s minimal product grid. Includes all 35 products observed on blacklabspotsshop.me on 22 October 2026.
 
+<!-- run-steps:start -->
+## Run it locally, step by step
+
+1. **Get the code:**
+
+   ```sh
+   git clone https://github.com/Gitguy268/blacklab-store-yeezy.git
+   cd blacklab-store-yeezy
+   ```
+
+2. **Start a local web server** on the `dist` folder (Python 3 comes with macOS and most Linux systems):
+
+   ```sh
+   python3 -m http.server 8000 --directory dist
+   ```
+
+3. **Open <http://localhost:8000/>** in your browser. Press `Ctrl+C` in the terminal to stop.
+<!-- run-steps:end -->
+
 ## Run
 
 Serve `dist/` using any static web server, for example `python3 -m http.server 4173 --directory dist`. Open http://localhost:4173.
